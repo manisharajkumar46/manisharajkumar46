@@ -1,8 +1,6 @@
 # 👩‍💻 Hey, I'm Jayamanisha  
 
-MCA Graduate | 💻 Java, Python, PHP, SQL, HTML, CSS  
-Passionate about **AI, Automation & Backend Development**  
-Always exploring **new tools & industry best practices**  
+MCA Graduate | 💻 Java, Python, PHP, SQL, HTML, CSS  | Passionate about **AI, Automation & Backend Development**  | Always exploring **new tools & industry best practices**  
 
 ---
 
